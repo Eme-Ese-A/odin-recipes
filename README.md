@@ -1,1 +1,1 @@
-# odin-recipes
+# odin-recipes is about praciticng my recently adqcuired skilss with HTML
